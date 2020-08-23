@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-int main()
+int main3()
 {
 	float a, b, sum, ans;
 	scanf_s("%f %f", &a, &b);
